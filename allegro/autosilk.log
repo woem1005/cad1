@@ -1,0 +1,74 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Auto Silkscreen Log File                                         )
+(                                                                     )
+(    Drawing          : CAD1.brd                                      )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Tue Jul 30 12:07:37 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Generating Auto Silkscreen for the top of the board.
+
+Copying all elements.
+
+Element to Pad clearance is 0.000
+Max Text displacement is 2.540
+Min Line Length is 0.000
+Allowing 0 degree text rotation.
+Text Allowed Under Components.
+Subclass Selections:
+ Board Geometry       : Silkscreen
+ Component Value      : Silkscreen
+ Device Type          : Silkscreen
+ Package Geometry     : Silkscreen
+ Reference Designator : Silkscreen
+ Tolerance            : Silkscreen
+ User Part Number     : Silkscreen
+
+Text string '***' is not at a suitable location
+(location: 49.903, 79.960)
+Text string '***' is not at a suitable location
+(location: 37.458, 79.960)
+Text string '***' is not at a suitable location
+(location: 52.951, 82.309)
+Text string '100K' is not at a suitable location
+(location: 49.650, 83.986)
+Text string '***' is not at a suitable location
+(location: 49.624, 82.309)
+Text string '20K' is not at a suitable location
+(location: 93.179, 69.801)
+Text string '***' is not at a suitable location
+(location: 93.230, 67.388)
+Text string '***' is not at a suitable location
+(location: 93.230, 68.658)
+Text string '***' is not at a suitable location
+(location: 87.947, 67.388)
+Text string '***' is not at a suitable location
+(location: 87.947, 68.658)
+Text string 'CON3_JUMPER3_CON3' is not at a suitable location
+(location: 7.235, 40.326)
+Text string '***' is not at a suitable location
+(location: 6.499, 40.453)
+Text string 'CON4_JUMPER4_CON4' is not at a suitable location
+(location: 7.819, 23.091)
+Text string '***' is not at a suitable location
+(location: 6.600, 23.066)
+Text string 'NE555_0_DIP8_3_NE555' is not at a suitable location
+(location: 28.617, 69.441)
+Text string '***' is not at a suitable location
+(location: 28.617, 65.631)
+Text string 'LF357_2_DIP8_3_LF398' is not at a suitable location
+(location: 17.090, 70.334)
+Text string 'LF398' is not at a suitable location
+(location: 17.090, 69.064)
+Text string '***' is not at a suitable location
+(location: 17.090, 67.794)
+Text string '***' is not at a suitable location
+(location: 17.090, 66.524)
+
+Total Failures: 20
+
+Log End
+

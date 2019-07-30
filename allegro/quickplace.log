@@ -1,0 +1,43 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : CAD1.brd                                      )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Tue Jul 30 12:30:15 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+         Placed symbol:  U3 / LF357_2_DIP8_3_LF398 / DIP8_3 at (2.973 77.593)
+         Placed symbol:  U5 / LF356_7_DIP8_3_LF356 / DIP8_3 at (13.336 77.593)
+         Placed symbol:  U4 / LF356_7_DIP8_3_LF356 / DIP8_3 at (23.699 77.593)
+         Placed symbol:  U2 / LF356_7_DIP8_3_LF356 / DIP8_3 at (34.062 77.593)
+         Placed symbol:  U1 / NE555_0_DIP8_3_NE555 / DIP8_3 at (44.425 77.593)
+         Placed symbol:  J1 / CON4_JUMPER4_CON4 / JUMPER4 at (54.788 70.227)
+         Placed symbol:  J2 / CON3_JUMPER3_CON3 / JUMPER3 at (65.151 69.973)
+         Placed symbol:  Q1 / 2SA1020_TO226AB_2SA1020 / TO226AB at (73.284 70.773)
+         Placed symbol:  VR1 / POT_RESADJ_5K / RESADJ at (81.272 74.901)
+         Placed symbol:  VR2 / POT_RESADJ_20K / RESADJ at (86.555 74.901)
+         Placed symbol:  R3 / R_RES400_6.2K / RES400 at (89.882 69.884)
+         Placed symbol:  R1 / R_RES400_560 / RES400 at (93.209 69.884)
+         Placed symbol:  R2 / R_RES400_39K / RES400 at (96.536 69.884)
+         Placed symbol:  R6 / R_RES400_10K / RES400 at (3.557 82.609)
+         Placed symbol:  R7 / R_RES400_10K / RES400 at (6.884 82.609)
+         Placed symbol:  R8 / R_RES400_10K / RES400 at (10.211 82.609)
+         Placed symbol:  R9 / R_RES400_10K / RES400 at (13.538 82.609)
+         Placed symbol:  J3 / CON2_JUMPER2_CON2 / JUMPER2 at (16.281 82.698)
+         Placed symbol:  D2 / DIODE_DO41_DIODE / DO41 at (21.818 82.571)
+         Placed symbol:  C3 / CAP NP_CAP196_0.01UF / CAP196 at (26.339 82.698)
+         Placed symbol:  C2 / CAP NP_CAP196_0.01UF / CAP196 at (32.130 82.698)
+         Placed symbol:  R4 / R_RES400_100K / RES400 at (36.981 82.609)
+         Placed symbol:  R5 / R_RES400_10K / RES400 at (40.308 82.609)
+         Placed symbol:  C1 / CAP NP_CAP196_0.01UF / CAP196 at (44.575 82.698)
+
+
+Placed 24 of 24 applicable (24 total) symbols.
+
+-----------------------------------------------------------------------
+
